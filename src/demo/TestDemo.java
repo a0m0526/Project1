@@ -10,6 +10,8 @@ public class TestDemo {
 		
 		System.out.println("TestDemo push 2");
 		
+		
+		System.out.println("Practice pull ");
 	}
 // changes to github
 
